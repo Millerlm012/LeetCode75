@@ -1,5 +1,4 @@
 import unittest
-from datetime import datetime
 from main import FirstSolution, SecondSolution
 
 class TestAlternateMerge(unittest.TestCase):

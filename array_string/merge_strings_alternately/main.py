@@ -1,6 +1,6 @@
 """
 Merge Strings Alternately: Completed on 2023-05-22
-Problem: https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&id=leetcode-75
+Problem: https://leetcode.com/problems/merge-strings-alternately/
 """
 
 class FirstSolution:
