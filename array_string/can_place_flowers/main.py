@@ -1,5 +1,5 @@
 """
-Merge Strings Alternately: Completed on 2023-05-24
+Merge Strings Alternately: Completed on 2023-05-25
 Problem: https://leetcode.com/problems/can-place-flowers/
 """
 from typing import List
